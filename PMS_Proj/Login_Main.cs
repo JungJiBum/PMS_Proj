@@ -7,7 +7,7 @@ namespace PMS_Proj
             InitializeComponent();
         }
 
-        private void Login_Btn_Click(object sender, EventArgs e)
+        public void Login_Btn_Click(object sender, EventArgs e)
         {
             //Test ID = root / PW = root
             string ID = "root";
@@ -16,6 +16,7 @@ namespace PMS_Proj
             if (Id_Field.Text != ID)
             {
                 MessageBox.Show("아이디가 틀렸습니다.");
+                
             }
             else if (Id_Field.Text == ID && Pw_Field.Text != PW)
             {
