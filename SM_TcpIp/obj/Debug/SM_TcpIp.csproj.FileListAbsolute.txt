@@ -1,0 +1,10 @@
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\bin\Debug\SM_TcpIp.exe.config
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\bin\Debug\SM_TcpIp.exe
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\bin\Debug\SM_TcpIp.pdb
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\obj\Debug\SM_TcpIp.csproj.AssemblyReference.cache
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\obj\Debug\SM_TcpIp.csproj.SuggestedBindingRedirects.cache
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\obj\Debug\SM_TcpIp.Properties.Resources.resources
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\obj\Debug\SM_TcpIp.csproj.GenerateResource.cache
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\obj\Debug\SM_TcpIp.csproj.CoreCompileInputs.cache
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\obj\Debug\SM_TcpIp.exe
+C:\Users\com\source\repos\SummerProject\SM_TcpIp\obj\Debug\SM_TcpIp.pdb
